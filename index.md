@@ -7,12 +7,7 @@ Este sitio presenta el desarrollo completo de un proyecto analítico orientado a
 
 ## Dashboard interactivo
 
-<iframe width="100%" height="650"
-src="https://lookerstudio.google.com/embed/reporting/af5e0a50-936f-486f-9fea-438c774adb38/page/hatnF"
-frameborder="0"
-style="border:0"
-allowfullscreen>
-</iframe>
+<iframe width="1000" height="800" src="https://lookerstudio.google.com/embed/reporting/af5e0a50-936f-486f-9fea-438c774adb38/page/hatnF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 ---
 
