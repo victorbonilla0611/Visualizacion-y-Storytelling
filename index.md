@@ -40,6 +40,27 @@ Posteriormente se construyeron variables derivadas como:
 El modelado fue realizado en Python y la visualización desarrollada en Looker Studio.
 
 ---
+# Documentación del proyecto
+
+A continuación se presentan los archivos que soportan el desarrollo analítico:
+
+### Dataset utilizado
+- [Ask A Manager Salary Survey 2021](Ask%20A%20Manager%20Salary%20Survey%202021.xlsx)
+
+### Base de datos modelada
+- [BD_Modelada_Dashboard_TRM](BD_Modelada_Dashboard_TRM.xlsx)
+
+### Diccionario de variables
+- [Descripción de Variables](Descripcion%20de%20Variables.docx)
+
+### Notebook de modelado
+- [Modelado Storytelling](ModeladoST.ipynb)
+
+### Metodología paso a paso
+- [Paso a paso del modelado](Paso%20a%20paso%20modelado.docx)
+
+### Dashboard final
+- [Sueldos de profesionales](Sueldos_de_profesionales.pdf)
 
 ## Tecnologías utilizadas
 
