@@ -24,7 +24,20 @@ Analizar cómo varían los salarios según la industria, la ubicación geográfi
 
 ## Insight principal
 
-Los resultados evidencian diferencias salariales entre industrias y regiones, con una mayor concentración de ingresos en sectores altamente especializados.
+Los datos utilizados en este proyecto provienen del “Ask A Manager Salary Survey 2021”.  
+Se realizó un proceso de limpieza y estandarización de variables como país, ciudad y moneda.
+
+Los salarios fueron convertidos a pesos colombianos (COP) utilizando la Tasa Representativa del Mercado (TRM) del día 08-02-2026, con el fin de permitir comparaciones homogéneas entre países.
+
+Posteriormente se construyeron variables derivadas como:
+
+- Salario anual en COP  
+- Compensaciones en COP  
+- Ingreso total anual  
+- Promedios por industria  
+- Distribución geográfica  
+
+El modelado fue realizado en Python y la visualización desarrollada en Looker Studio.
 
 ---
 
