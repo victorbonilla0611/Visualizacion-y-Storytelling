@@ -1,4 +1,4 @@
-# Salario profesionales global
+# Salario de profesionales a nivel global
 ## Proyecto de Visualización y Storytelling
 
 Este sitio presenta el desarrollo completo de un proyecto analítico orientado a identificar y conocer los diferentes salarios entre profesionales a nivel mundial, integrando procesos de limpieza, transformación y visualización de datos.
